@@ -12,8 +12,8 @@ interface RootLayoutProps {
 }
 
 export const metadata: Metadata = {
-	title: 'Gamehub',
-	description: 'Fullstack Twitch Clone'
+	title: 'Spectra',
+	description: 'Live streaming service'
 }
 
 export default function RootLayout({ children }: RootLayoutProps) {
